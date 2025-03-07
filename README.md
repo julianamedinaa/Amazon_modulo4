@@ -40,10 +40,37 @@ Otra opción adecuada para el análisis de sentimientos es el modelo de *Máquin
 
 Por otro lado, los *Árboles de Decisión* ofrecen un enfoque diferente, basado en la división de los datos en ramas según ciertas condiciones en las características, lo que forma una estructura similar a un árbol. Este modelo es especialmente útil porque es fácil de interpretar, lo que permite visualizar de manera clara cómo se toman las decisiones en la clasificación de las reseñas. Además, los árboles de decisión pueden capturar relaciones no lineales en los datos. Sin embargo, presentan una desventaja importante: tienden a sobreajustarse si no se aplica un proceso de poda o regularización adecuado, lo que puede afectar su capacidad de generalización en datos nuevos.
 
-#
+### Metricas de Regresion logistica ###
+![image](https://github.com/user-attachments/assets/ca6894e6-c9d4-4509-a55c-043543e4fba5)
+
+### Curva de aprendizaje de Regresion logistica ###
+![image](https://github.com/user-attachments/assets/1b4f934d-2538-4f02-8f56-6f649fc650e0)
+
+
+### Metricas de evaluacion SVM ###
+![image](https://github.com/user-attachments/assets/cfc5689a-0c82-4f12-a5a3-2ad12bc61064)
+
+### Curva de aprendizaje de SVM ###
+![image](https://github.com/user-attachments/assets/f0fcba5c-7635-4f0d-b6d6-0fbb8fd4bc3e)
+
+
+### Metricas de evaluacion Arbol de decision ###
+![image](https://github.com/user-attachments/assets/4bbd13fc-02db-48d3-88c7-5495e746fc38)
+
+### Curva de aprendizaje de Arbol de decision ###
+![image](https://github.com/user-attachments/assets/8b66d5c6-5af7-415f-b877-7acb991e2150)
+
+
+
+
 ## Conclusiones del Proyecto
 
-La implementación de la regresión logística junto con la vectorización TF-IDF ha demostrado ser una solución efectiva para la clasificación de sentimientos en el conjunto de datos de reseñas de Amazon, logrando un modelo con alta precisión y capacidad de generalización para diferenciar opiniones positivas y negativas. Sin embargo, presenta limitaciones en la detección de sarcasmo e ironía, lo que puede afectar la interpretación de algunas reseñas. La limpieza y normalización de los datos textuales, incluyendo la conversión a minúsculas, la eliminación de caracteres especiales y espacios redundantes, fueron claves para mejorar la calidad de los datos y el desempeño del modelo. Además, la integración de MLflow permitió un seguimiento eficiente de los experimentos, facilitando la comparación de configuraciones y asegurando la reproducibilidad de los resultados. 
+La implementación de la regresión logística junto con la vectorización TF-IDF ha demostrado ser una solución efectiva para la clasificación de sentimientos en el conjunto de datos de reseñas de Amazon, logrando un modelo con alta precisión y capacidad de generalización para diferenciar opiniones positivas y negativas. Sin embargo, presenta limitaciones en la detección de sarcasmo e ironía, lo que puede afectar la interpretación de algunas reseñas. Como bien se dijo, la regresion logisitica es un buen punto de partida, pero su variabilidad en la curva de aprendizaje sugiere que se pondría mejora su generalizacion. En comparacion, la precision parece ser silimar en los tres modelos, lo que sugiere que todos estan desempeñadose de manera comparable en terminos de clasificaicon general. La limpieza y normalización de los datos textuales, incluyendo la conversión a minúsculas, la eliminación de caracteres especiales y espacios redundantes, fueron claves para mejorar la calidad de los datos y el desempeño del modelo. Además, la integración de MLflow permitió un seguimiento eficiente de los experimentos, facilitando la comparación de configuraciones y asegurando la reproducibilidad de los resultados. 
+
+
+
+
+
 
 A pesar de los buenos resultados obtenidos, se pueden explorar técnicas avanzadas como modelos basados en redes neuronales o transformers para mejorar la precisión y la capacidad de generalización, mientras que la ampliación del conjunto de datos con más ejemplos podría reducir sesgos y aumentar la robustez del sistema. 
 
