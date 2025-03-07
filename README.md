@@ -10,6 +10,8 @@
 
 ## *Amazon Polarity Dataset - Análisis de Sentimientos*
 
+- *Fuente del Dataset*:
+  El dataset completo está disponible en *Hugging Face*: https://huggingface.co/datasets/SetFit/amazon_polarity
 
 ### Descripción
 
@@ -75,11 +77,6 @@ La implementación de la regresión logística junto con la vectorización TF-ID
 𝐶=1.0 ofrece una buena capacidad de generalización en datos linealmente separables. Sin embargo, para mejorar su rendimiento, se podrían probar otros valores de C para encontrar el mejor equilibrio entre sesgo y varianza, así como utilizar kernels más complejos como rbf o poly en caso de que los datos no sean linealmente separables. Además, la optimización de hiperparámetros mediante búsqueda en cuadrícula (GridSearchCV) o búsqueda aleatoria (RandomizedSearchCV) podría ayudar a encontrar la configuración más óptima del modelo.
 
 
-A pesar de los buenos resultados obtenidos, se pueden explorar técnicas avanzadas como modelos basados en redes neuronales o transformers para mejorar la precisión y la capacidad de generalización, mientras que la ampliación del conjunto de datos con más ejemplos podría reducir sesgos y aumentar la robustez del sistema. 
+- A pesar de los buenos resultados obtenidos, se pueden explorar técnicas avanzadas como modelos basados en redes neuronales o transformers para mejorar la precisión y la capacidad de generalización, mientras que la ampliación del conjunto de datos con más ejemplos podría reducir sesgos y aumentar la robustez del sistema.  Este enfoque es escalable y adaptable a otros dominios, como el análisis de opiniones en redes sociales o la detección de tendencias de mercado, convirtiéndolo en una herramienta valiosa para diversas aplicaciones.
 
-Este enfoque es escalable y adaptable a otros dominios, como el análisis de opiniones en redes sociales o la detección de tendencias de mercado, convirtiéndolo en una herramienta valiosa para diversas aplicaciones.
-
-
-- *Fuente del Dataset*:
-  El dataset completo está disponible en *Hugging Face*: https://huggingface.co/datasets/SetFit/amazon_polarity
 
