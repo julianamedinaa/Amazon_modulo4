@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/27ca56a578c04a96b83b618e74ca61b5/artifacts
+deleted_time: 1741310590876
+end_time: 1741219678007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 27ca56a578c04a96b83b618e74ca61b5
+run_name: traveling-doe-184
+run_uuid: 27ca56a578c04a96b83b618e74ca61b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741219673486
+status: 3
+tags: []
+user_id: Daniel

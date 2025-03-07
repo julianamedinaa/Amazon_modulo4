@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741315292637
+current_stage: None
+description: null
+last_updated_timestamp: 1741315292637
+name: Modelo_DecisionTree
+run_id: 250481da6c774cdfb4b4792e3e913cac
+run_link: null
+source: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/250481da6c774cdfb4b4792e3e913cac/artifacts/Amazon_model_DecisionTree
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/250481da6c774cdfb4b4792e3e913cac/artifacts/Amazon_model_DecisionTree
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/ddba3ea89d604be18dd61f636fa1ab9d/artifacts
+deleted_time: 1741219772346
+end_time: 1741059939361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ddba3ea89d604be18dd61f636fa1ab9d
+run_name: intrigued-toad-958
+run_uuid: ddba3ea89d604be18dd61f636fa1ab9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741059933987
+status: 3
+tags: []
+user_id: Daniel

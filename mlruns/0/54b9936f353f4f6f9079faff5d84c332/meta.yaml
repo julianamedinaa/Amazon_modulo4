@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/54b9936f353f4f6f9079faff5d84c332/artifacts
+deleted_time: 1741314030249
+end_time: 1741313641258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 54b9936f353f4f6f9079faff5d84c332
+run_name: classy-doe-927
+run_uuid: 54b9936f353f4f6f9079faff5d84c332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741313636369
+status: 3
+tags: []
+user_id: Daniel

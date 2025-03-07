@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/dfcdccfe66c345d3916cc219b5162b41/artifacts
+deleted_time: 1741313599309
+end_time: 1741310298849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dfcdccfe66c345d3916cc219b5162b41
+run_name: receptive-koi-683
+run_uuid: dfcdccfe66c345d3916cc219b5162b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741310290904
+status: 3
+tags: []
+user_id: Daniel

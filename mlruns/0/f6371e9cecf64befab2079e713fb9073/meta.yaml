@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/f6371e9cecf64befab2079e713fb9073/artifacts
+deleted_time: 1741219772347
+end_time: 1741141654916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f6371e9cecf64befab2079e713fb9073
+run_name: crawling-mule-281
+run_uuid: f6371e9cecf64befab2079e713fb9073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741141647485
+status: 3
+tags: []
+user_id: Daniel

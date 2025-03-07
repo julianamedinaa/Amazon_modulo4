@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741142591837
+current_stage: None
+description: null
+last_updated_timestamp: 1741142591837
+name: tracking-quickstart
+run_id: 513670f409b44613a4a7e8ce88a072b8
+run_link: null
+source: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/513670f409b44613a4a7e8ce88a072b8/artifacts/Amazon_model_90/10
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/513670f409b44613a4a7e8ce88a072b8/artifacts/Amazon_model_90/10
+user_id: null
+version: 3

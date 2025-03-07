@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741313641037
+current_stage: None
+description: null
+last_updated_timestamp: 1741313641037
+name: Modelo_SVM
+run_id: 54b9936f353f4f6f9079faff5d84c332
+run_link: null
+source: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/54b9936f353f4f6f9079faff5d84c332/artifacts/Amazon_model_SVM
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/54b9936f353f4f6f9079faff5d84c332/artifacts/Amazon_model_SVM
+user_id: null
+version: 2

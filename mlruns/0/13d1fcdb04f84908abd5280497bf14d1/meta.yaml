@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/13d1fcdb04f84908abd5280497bf14d1/artifacts
+end_time: 1741311249049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13d1fcdb04f84908abd5280497bf14d1
+run_name: painted-wolf-122
+run_uuid: 13d1fcdb04f84908abd5280497bf14d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741311244255
+status: 3
+tags: []
+user_id: Daniel

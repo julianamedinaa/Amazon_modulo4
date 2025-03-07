@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741311248834
+current_stage: None
+description: null
+last_updated_timestamp: 1741311248834
+name: Modelo_Regresion_Logistica
+run_id: 13d1fcdb04f84908abd5280497bf14d1
+run_link: null
+source: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/13d1fcdb04f84908abd5280497bf14d1/artifacts/Amazon_model_90_10
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Daniel/Desktop/Modulo4/mlruns/0/13d1fcdb04f84908abd5280497bf14d1/artifacts/Amazon_model_90_10
+user_id: null
+version: 1
